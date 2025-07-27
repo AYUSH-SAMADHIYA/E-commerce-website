@@ -54,7 +54,6 @@
 1.  **Clone the Repository**
     ```bash
     git clone https://github.com/AYUSH-SAMADHIYA/E-commerce-website
-    cd elegance-ecommerce
     ```
 
 2.  **Serve the Project**
